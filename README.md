@@ -74,4 +74,33 @@
   
   <a href="https://github.com/shadowrecluse"><img src=previous.webp width="350"></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/shadowrecluse"><img src=next.webp width="300"> </a>
 
+  
+  <br>
+  <br>
+  <br>
+  <br>
+  
+  <img src=left.png width="350">
+  <img src=spade3.png width="50">
+  <img src=right.png width="350">
+  
+  <img src=1.png width="750">
+  
+  <img src=heartsblue.png width="750">
+  <br>
+  
+  <img src=plushie.png width="35">
+  <img src=blinkie.png width="700">
+  <img src=5.png width="35">
+  
+  <img src=heartsyellow.png width="750">
+  <br>
+  
+  <img src=tumblr_31842b8425355a4fdad0892e07bd123d_a692e668_400.webp width="750">
+
+  <br>
+  
+  <img src=tumblr_ad054c94cea6e94041230b7c872ff91d_5f0227a6_640.png width="750">
+  
+
 </div>
