@@ -6,7 +6,6 @@
   <img src=heartsyellow.png width="750"> <br>
   <img src=plushie.png width="35"> <img src=blinkie.png width="700"> <img src=5.png width="35">
   <br> <img src=heartsblue.png width="750">
-  <br>
   
   <h3><i>i promise you that here, no one will hear you scream! no one will scream in doubt!</h3>
   <img src=tumblr_ad054c94cea6e94041230b7c872ff91d_5f0227a6_640.png width="750">
